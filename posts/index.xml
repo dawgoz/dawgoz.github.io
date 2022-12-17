@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Coder site</title>
-    <link>http://dawgoz.github.io/</link>
-    <description>Recent content on Coder site</description>
+    <title>Posts on Coder site</title>
+    <link>http://dawgoz.github.io/posts/</link>
+    <description>Recent content in Posts on Coder site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Dec 2022 16:15:04 +0200</lastBuildDate><atom:link href="http://dawgoz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 16:15:04 +0200</lastBuildDate><atom:link href="http://dawgoz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antras puslapis</title>
       <link>http://dawgoz.github.io/posts/antraspuslapis/</link>
